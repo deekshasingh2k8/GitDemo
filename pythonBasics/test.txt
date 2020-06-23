@@ -1,6 +1,10 @@
 abc1
 bvdsf2
-cat3
+cat
 dog4
 elephant5
+zebra8
+zebra8
+zebra8
+zebra8
 zebra8
